@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Uniblend",
+    "description": "",
+    "home_page_url": "https://blog.uniblend.space",
+    "feed_url": "https://blog.uniblend.space/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Uniblend"
+    },
+    "items": [
+        {
+            "id": "https://blog.uniblend.space/uniblendtest.html",
+            "url": "https://blog.uniblend.space/uniblendtest.html",
+            "title": "uniblendtest",
+            "author": {
+                "name": "Uniblend"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-15T21:07:19+03:00",
+            "date_modified": "2022-12-15T21:07:19+03:00"
+        }
+    ]
+}

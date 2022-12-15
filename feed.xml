@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Uniblend</title>
+    <link href="https://blog.uniblend.space/feed.xml" rel="self" />
+    <link href="https://blog.uniblend.space" />
+    <updated>2022-12-15T21:07:19+03:00</updated>
+    <author>
+        <name>Uniblend</name>
+    </author>
+    <id>https://blog.uniblend.space</id>
+
+    <entry>
+        <title>uniblendtest</title>
+        <author>
+            <name>Uniblend</name>
+        </author>
+        <link href="https://blog.uniblend.space/uniblendtest.html"/>
+        <id>https://blog.uniblend.space/uniblendtest.html</id>
+
+        <updated>2022-12-15T21:07:19+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
